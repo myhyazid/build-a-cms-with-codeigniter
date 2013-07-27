@@ -9,5 +9,5 @@ Source code for the Tutsplus course 'Build a CMS with Codeigniter'
 2.Extract it and upload it to your server<br/>
 3.Make sure to move the application and system file outside the public_html or WWW folder.<br/>
 <i>This is to ensure that your admin and cofigure files are safe and cannot be accesed by public</i><br/>
-<i>Please follow the instruction in <a href="https://tutsplus.com/lesson/installing-and-configuring-codeigniter/"/>
-this video by Joost Van Veen in Tuts+ Premium</a></i><br/>
+<i>Please follow the instruction in the video by Joost Van Veen in Tuts+ Premium</i><br/>
+<a href="https://tutsplus.com/lesson/installing-and-configuring-codeigniter/"/>Buils a CMS with CodeIgniter</a>
